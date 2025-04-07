@@ -76,21 +76,6 @@ quikk "An AI-powered personal budget tracker"
 
 ---
 
-## 🐳 Docker Support
-
-Build the image:
-
-```bash
-docker build -t quikk-cli .
-```
-
-Run it:
-
-```bash
-docker run -it --rm --env-file .env quikk-cli
-```
-
----
 
 ## 🧰 Tech Stack
 
